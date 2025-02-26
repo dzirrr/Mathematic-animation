@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/3516183336_80187911_3060039471.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_1141282389_1446252378.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_801649278_2276802971.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_3890345977_2915622984.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_2795450007_2769790146.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_3890345977_614229020.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_3261802945_1389022987.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_3389843911_3894312740.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_535016462_1065697291.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_2563436077_2118092765.mp4'
+file 'file:E:/Project Manim/my_project/media/videos/akar5/1920p60/partial_movie_files/SoalAkar5/355677419_2475379470_3916240697.mp4'

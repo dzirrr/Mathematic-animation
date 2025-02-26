@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTargetExample/3977891868_117149643_1933773006.mp4'
+file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTargetExample/2852726489_3416922839_1523457751.mp4'
+file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTargetExample/2852726489_1704852926_3042573424.mp4'

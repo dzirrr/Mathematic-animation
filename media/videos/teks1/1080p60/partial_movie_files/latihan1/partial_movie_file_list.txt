@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/media/videos/teks1/1080p60/partial_movie_files/latihan1/3977891868_3218228225_223132457.mp4'
+file 'file:F:/project/media/videos/teks1/1080p60/partial_movie_files/latihan1/2852726489_3204076926_1156712240.mp4'
+file 'file:F:/project/media/videos/teks1/1080p60/partial_movie_files/latihan1/2852726489_1704852926_3040785529.mp4'

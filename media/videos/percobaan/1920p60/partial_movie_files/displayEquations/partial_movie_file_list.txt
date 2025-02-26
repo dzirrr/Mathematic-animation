@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/media/videos/percobaan/1920p60/partial_movie_files/displayEquations/3516183336_628076102_223132457.mp4'
+file 'file:F:/project/media/videos/percobaan/1920p60/partial_movie_files/displayEquations/355677419_3890345977_1996840975.mp4'
+file 'file:F:/project/media/videos/percobaan/1920p60/partial_movie_files/displayEquations/355677419_1446786583_3831457917.mp4'
+file 'file:F:/project/media/videos/percobaan/1920p60/partial_movie_files/displayEquations/355677419_2475379470_783847615.mp4'

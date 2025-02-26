@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/3516183336_80187911_223132457.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_1141282389_1358460776.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_3381676329_4265166996.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_3890345977_4065074746.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_1086805440_509447913.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_3890345977_114686602.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_3261802945_2521192668.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_3389843911_643529869.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_535016462_788577092.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_2563436077_2809451236.mp4'
+file 'file:F:/project/my_project/media/videos/akar5/1920p60/partial_movie_files/SquareRootDifference/355677419_2475379470_819633141.mp4'

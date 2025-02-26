@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/media/videos/percobaan3/480p15/partial_movie_files/MovingFrameBox/1185818338_2138901128_223132457.mp4'
+file 'file:F:/project/media/videos/percobaan3/480p15/partial_movie_files/MovingFrameBox/624642324_271042858_833714077.mp4'
+file 'file:F:/project/media/videos/percobaan3/480p15/partial_movie_files/MovingFrameBox/624642324_1704852926_3394160418.mp4'
+file 'file:F:/project/media/videos/percobaan3/480p15/partial_movie_files/MovingFrameBox/624642324_1303489_3766780418.mp4'
+file 'file:F:/project/media/videos/percobaan3/480p15/partial_movie_files/MovingFrameBox/624642324_1704852926_3818418192.mp4'

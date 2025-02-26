@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/project/media/videos/percobaan2/480p15/partial_movie_files/BraceAnnotation/1185818338_123554531_4242425066.mp4'
