@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:F:/project/media/videos/latihan1/1080p60/partial_movie_files/latihan1/3977891868_962674310_1016140956.mp4'
-file 'file:F:/project/media/videos/latihan1/1080p60/partial_movie_files/latihan1/2852726489_1106366171_1393106908.mp4'
-file 'file:F:/project/media/videos/latihan1/1080p60/partial_movie_files/latihan1/2852726489_1478505968_593411875.mp4'
-file 'file:F:/project/media/videos/latihan1/1080p60/partial_movie_files/latihan1/2852726489_1704852926_2313560686.mp4'
-file 'file:F:/project/media/videos/latihan1/1080p60/partial_movie_files/latihan1/2852726489_2641566389_916310777.mp4'

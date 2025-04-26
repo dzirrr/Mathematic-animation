@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:F:/project/media/videos/percobaan5/720p30/partial_movie_files/displayEquations/2016333726_628076102_223132457.mp4'
-file 'file:F:/project/media/videos/percobaan5/720p30/partial_movie_files/displayEquations/543634251_3890345977_1996840975.mp4'
-file 'file:F:/project/media/videos/percobaan5/720p30/partial_movie_files/displayEquations/543634251_561995969_3831457917.mp4'
-file 'file:F:/project/media/videos/percobaan5/720p30/partial_movie_files/displayEquations/543634251_2475379470_2393455791.mp4'

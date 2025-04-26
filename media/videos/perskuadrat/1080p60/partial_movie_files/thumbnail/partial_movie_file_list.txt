@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:F:/Project/media/videos/perskuadrat/1080p60/partial_movie_files/thumbnail/3977891868_4184662770_223132457.mp4'
-file 'file:F:/Project/media/videos/perskuadrat/1080p60/partial_movie_files/thumbnail/2852726489_2661044256_1062324885.mp4'
-file 'file:F:/Project/media/videos/perskuadrat/1080p60/partial_movie_files/thumbnail/2852726489_3568017449_1029275979.mp4'
-file 'file:F:/Project/media/videos/perskuadrat/1080p60/partial_movie_files/thumbnail/2852726489_1217648208_3916246880.mp4'
