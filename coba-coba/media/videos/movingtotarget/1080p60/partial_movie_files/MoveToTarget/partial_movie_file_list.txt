@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTarget/3977891868_2176262553_223132457.mp4'
-file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTarget/2852726489_3106640863_2005813324.mp4'
-file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTarget/2852726489_976721399_558229060.mp4'
-file 'file:F:/project/coba-coba/media/videos/movingtotarget/1080p60/partial_movie_files/MoveToTarget/2852726489_1704852926_1013218145.mp4'
